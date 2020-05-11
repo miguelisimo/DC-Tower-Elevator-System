@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="at.medlingers.elevator.SimpleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-05-07T14:25:48" hostname="sengine-dev" time="0.041">
+  <properties/>
+  <testcase name="testOne" classname="at.medlingers.elevator.SimpleTest" time="0.005"/>
+  <testcase name="testTwo" classname="at.medlingers.elevator.SimpleTest" time="0.035"/>
+  <system-out><![CDATA[Invoked before each test method
+Test One
+Invoked before each test method
+Test Two
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
